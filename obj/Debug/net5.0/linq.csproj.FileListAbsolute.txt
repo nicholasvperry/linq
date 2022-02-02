@@ -1,0 +1,16 @@
+D:\workspace\backend\csharp\book1\linq\bin\Debug\net5.0\linq.exe
+D:\workspace\backend\csharp\book1\linq\bin\Debug\net5.0\linq.deps.json
+D:\workspace\backend\csharp\book1\linq\bin\Debug\net5.0\linq.runtimeconfig.json
+D:\workspace\backend\csharp\book1\linq\bin\Debug\net5.0\linq.runtimeconfig.dev.json
+D:\workspace\backend\csharp\book1\linq\bin\Debug\net5.0\linq.dll
+D:\workspace\backend\csharp\book1\linq\bin\Debug\net5.0\ref\linq.dll
+D:\workspace\backend\csharp\book1\linq\bin\Debug\net5.0\linq.pdb
+D:\workspace\backend\csharp\book1\linq\obj\Debug\net5.0\linq.csproj.AssemblyReference.cache
+D:\workspace\backend\csharp\book1\linq\obj\Debug\net5.0\linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\backend\csharp\book1\linq\obj\Debug\net5.0\linq.AssemblyInfoInputs.cache
+D:\workspace\backend\csharp\book1\linq\obj\Debug\net5.0\linq.AssemblyInfo.cs
+D:\workspace\backend\csharp\book1\linq\obj\Debug\net5.0\linq.csproj.CoreCompileInputs.cache
+D:\workspace\backend\csharp\book1\linq\obj\Debug\net5.0\linq.dll
+D:\workspace\backend\csharp\book1\linq\obj\Debug\net5.0\ref\linq.dll
+D:\workspace\backend\csharp\book1\linq\obj\Debug\net5.0\linq.pdb
+D:\workspace\backend\csharp\book1\linq\obj\Debug\net5.0\linq.genruntimeconfig.cache
